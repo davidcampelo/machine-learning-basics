@@ -1,4 +1,4 @@
-Complete code of ALURA’s Machine Learning basics course. 
+## Complete code of ALURA’s Machine Learning basics course. 
 
 In this course we went through many hands-on examples of using the Python’s SKLEARN API to classify customer behavoiours and emails.
 
